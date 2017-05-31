@@ -1,0 +1,29 @@
+{
+  "name": "gdg",
+  "version": "0.0.1",
+  "description": "gdg framework",
+  "main": "gdg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-d-g/gdg.git"
+  },
+  "keywords": [
+    "gdg"
+  ],
+  "author": "Tarek Hariri <geodesgrp@icloud.com>",
+  "license": "SEE LICENSE IN license.md",
+  "bugs": {
+    "url": "https://github.com/g-d-g/gdg/issues"
+  },
+  "homepage": "https://github.com/g-d-g/gdg#readme",
+  "dependencies": {
+    "@google-cloud/storage": "^1.1.1",
+    "commander": "^2.9.0",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "googleapis": "^19.0.0"
+  }
+}

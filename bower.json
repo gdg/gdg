@@ -1,0 +1,20 @@
+{
+  "name": "gdg",
+  "description": "gdg framework",
+  "main": "gdg.js",
+  "authors": [
+    "Tarek Hariri <geodesgrp@icloud.com>"
+  ],
+  "license": "SEE LICENSE IN license.md",
+  "keywords": [
+    "gdg"
+  ],
+  "homepage": "https://github.com/g-d-g/gdg",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
