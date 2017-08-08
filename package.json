@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/g-d-g/gdg.git"
+    "url": "git+https://github.com/gdg/gdg.git"
   },
   "keywords": [
     "gdg"
@@ -16,9 +16,9 @@
   "author": "Tarek Hariri <geodesgrp@icloud.com>",
   "license": "SEE LICENSE IN license.md",
   "bugs": {
-    "url": "https://github.com/g-d-g/gdg/issues"
+    "url": "https://github.com/gdg/gdg/issues"
   },
-  "homepage": "https://github.com/g-d-g/gdg#readme",
+  "homepage": "https://github.com/gdg/gdg#readme",
   "dependencies": {
     "@google-cloud/storage": "^1.1.1",
     "commander": "^2.9.0",
