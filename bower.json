@@ -9,7 +9,7 @@
   "keywords": [
     "gdg"
   ],
-  "homepage": "https://github.com/g-d-g/gdg",
+  "homepage": "https://github.com/gdg/gdg",
   "ignore": [
     "**/.*",
     "node_modules",
